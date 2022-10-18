@@ -1,6 +1,6 @@
 # GitHub README Chess Tournament
 
-This template repository contains the source code for a Python Chess bot, together with GitHub Workflows in order to allow ANYONE to play chess from a README file. Want to see this in action? Go to my [profile page](https://github.com/marcizhu) and feel free to try it out by yourself!
+This template repository contains the source code for a Python Chess bot, together with GitHub Workflows in order to allow ANYONE to play chess from a README file. Want to see this in action? Go to my [profile page](https://github.com/MohamedRiadh-Sohnoun) and feel free to try it out by yourself!
 
 
 ## Steps to make your own repo
@@ -32,5 +32,5 @@ Thanks to [@timburgan](https://github.com/timburgan) for the initial idea. This 
 
 ## License
 
-This template and the code in it is licensed under the [MIT License](https://github.com/marcizhu/readme-chess/LICENSE).  
+This template and the code in it is licensed under the [MIT License](https://github.com/MohamedRiadh-Sohnoun/readme-chess/LICENSE).  
 If you use this on your own repositories, please add a link back to this repo :D
